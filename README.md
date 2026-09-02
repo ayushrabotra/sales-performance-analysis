@@ -57,6 +57,10 @@ The analysis was used to highlight important findings that can support better un
 
 The analysis provides a structured view of sales performance and demonstrates how Excel can be used to transform raw transaction data into meaningful business insights.
 
+## 📊 Dashboard Preview
+
+![Sales Performance Dashboard](sales-performance-dashboard.png)
+
 ## 👤 Author
 
 **Ayush Rabotra**
